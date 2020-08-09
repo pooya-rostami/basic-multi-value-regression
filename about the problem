@@ -1,0 +1,7 @@
+Predicting price of houses based on number of bedrooms and area of the house. 
+Process of solving problem:
+  -	Loading data
+  -	Use 75% of data as learn data and 25% as testing data
+  -	showing data on three dimensions
+  -	find prediction plate
+  -	find MSE 
